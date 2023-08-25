@@ -1,7 +1,7 @@
 // repetition meta characters
 // "+" - matches one or more occurences
 // "?" - matches zero or one occurrences
-// "*" - matches zero or one occurrences 
+// "*" - matches zero or omore occurrences 
 
 const string1="Steve Normal Jeff amanda Sherry K";
 
